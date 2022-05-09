@@ -1,7 +1,6 @@
 # 4553-SPATIAL
 
 # Assignments
-##  Assignments Folder
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
