@@ -1,8 +1,7 @@
-# 4553-SPATIAL
+# SPATIAL DATA STRUCTURES
 
-# Assignments
-
-|   #   | Folder Link | Assignment Description |
+# Projects
+|   #   | Folder Link | Project Description |
 | :---: | ----------- | ---------------------- |
 |    1   |[P01](https://github.com/laneazzi/4553-SPATIAL/tree/main/P01) | convert and siplay city data |                                                                               
 |    2   |[P02](https://github.com/laneazzi/4553-SPATIAL/tree/main/P02) |  UFO sightings based on city|
